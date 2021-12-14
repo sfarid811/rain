@@ -12,8 +12,6 @@ function rain () {
         drop.style.left = posX + 'px';
         drop.style.animationDelay = delay + 's';
         drop.style.animationDuration = duration + 's';
-       
     }
-
 }
 rain();
